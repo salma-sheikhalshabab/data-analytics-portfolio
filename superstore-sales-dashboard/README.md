@@ -58,8 +58,7 @@ An interactive sales performance dashboard built in **Power BI** using the popul
 ```
 📁 superstore-sales-dashboard/
 ├── 📊 Superstore_Dashboard.pbix
-├── 📁 screenshots/
-│   └── dashboard.png
+├──  dashboard.png
 └── 📄 README.md
 ```
 
